@@ -1,0 +1,106 @@
+c:\users\vanek\onedrive\документы\visual studio 2017\Projects\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+c:\users\vanek\onedrive\документы\visual studio 2017\Projects\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+c:\users\vanek\onedrive\документы\visual studio 2017\Projects\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+c:\users\vanek\onedrive\документы\visual studio 2017\Projects\Курсовая\Курсовая\obj\Debug\Курсовая.csprojResolveAssemblyReference.cache
+c:\users\vanek\onedrive\документы\visual studio 2017\Projects\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+c:\users\vanek\onedrive\документы\visual studio 2017\Projects\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+c:\users\vanek\onedrive\документы\visual studio 2017\Projects\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.Cache
+c:\users\vanek\onedrive\документы\visual studio 2017\Projects\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+c:\users\vanek\onedrive\документы\visual studio 2017\Projects\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+D:\Проекты\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+D:\Проекты\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+D:\Проекты\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+D:\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+D:\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+D:\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+D:\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+D:\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+D:\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+D:\Проекты\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая\Курсовая\obj\Debug\Курсовая.csprojResolveAssemblyReference.cache
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.Cache
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+D:\Проекты\Курсовая.v2\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+D:\Проекты\Курсовая.v2\Курсовая\obj\Debug\Курсовая.Form1.resources
+D:\Проекты\Курсовая.v2\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+D:\Проекты\Курсовая.v2\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+D:\Проекты\Курсовая.v2\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+D:\Проекты\Курсовая.v2\Курсовая\obj\Debug\Курсовая.exe
+D:\Проекты\Курсовая.v2\Курсовая\obj\Debug\Курсовая.pdb
+D:\Проекты\Курсовая.v2\Курсовая\bin\Debug\Курсовая.exe.config
+D:\Проекты\Курсовая.v2\Курсовая\bin\Debug\Курсовая.exe
+D:\Проекты\Курсовая.v2\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v2\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v2\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v2\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v2\Курсовая\obj\Debug\Курсовая.csprojResolveAssemblyReference.cache
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v2\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v2\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v2\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.Cache
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v2\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v2\Курсовая\obj\Debug\Курсовая.pdb
+D:\Проекты\Курсовая.v2\Курсовая\obj\Debug\Курсовая.Получение_количества_элементов_таблицы.resources
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v3\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v3\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v3\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v3\Курсовая\obj\Debug\Курсовая.csprojResolveAssemblyReference.cache
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v3\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v3\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v3\Курсовая\obj\Debug\Курсовая.Получение_количества_элементов_таблицы.resources
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v3\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.Cache
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v3\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v3\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v3\Курсовая\obj\Debug\Курсовая.AllElements.resources
+D:\Проекты\Курсовая.v4\Курсовая\bin\Debug\Курсовая.exe.config
+D:\Проекты\Курсовая.v4\Курсовая\bin\Debug\Курсовая.exe
+D:\Проекты\Курсовая.v4\Курсовая\bin\Debug\Курсовая.pdb
+D:\Проекты\Курсовая.v4\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+D:\Проекты\Курсовая.v4\Курсовая\obj\Debug\Курсовая.AllElements.resources
+D:\Проекты\Курсовая.v4\Курсовая\obj\Debug\Курсовая.Form1.resources
+D:\Проекты\Курсовая.v4\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+D:\Проекты\Курсовая.v4\Курсовая\obj\Debug\Курсовая.Получение_количества_элементов_таблицы.resources
+D:\Проекты\Курсовая.v4\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+D:\Проекты\Курсовая.v4\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+D:\Проекты\Курсовая.v4\Курсовая\obj\Debug\Курсовая.exe
+D:\Проекты\Курсовая.v4\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v4\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v4\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v4\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v4\Курсовая\obj\Debug\Курсовая.csprojResolveAssemblyReference.cache
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v4\Курсовая\obj\Debug\Курсовая.AllElements.resources
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v4\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v4\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v4\Курсовая\obj\Debug\Курсовая.Получение_количества_элементов_таблицы.resources
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v4\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.Cache
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v4\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\vanek\OneDrive\Рабочий стол\ВАНЯ\Курсовая.v4\Курсовая\obj\Debug\Курсовая.pdb
+D:\Проекты\Курсовая.v5\Курсовая\bin\Debug\Курсовая.exe.config
+D:\Проекты\Курсовая.v5\Курсовая\bin\Debug\Курсовая.exe
+D:\Проекты\Курсовая.v5\Курсовая\bin\Debug\Курсовая.pdb
+D:\Проекты\Курсовая.v5\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+D:\Проекты\Курсовая.v5\Курсовая\obj\Debug\Курсовая.AllElements.resources
+D:\Проекты\Курсовая.v5\Курсовая\obj\Debug\Курсовая.Form1.resources
+D:\Проекты\Курсовая.v5\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+D:\Проекты\Курсовая.v5\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+D:\Проекты\Курсовая.v5\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+D:\Проекты\Курсовая.v5\Курсовая\obj\Debug\Курсовая.exe
+D:\Проекты\Курсовая.v5\Курсовая\obj\Debug\Курсовая.pdb
+D:\Проекты\Курсовая.v5\Курсовая\obj\Debug\Курсовая.GetTableNumber.resources
+D:\Учеба\New folder\Курсовая.v5\Курсовая\bin\Debug\Курсовая.exe.config
+D:\Учеба\New folder\Курсовая.v5\Курсовая\bin\Debug\Курсовая.exe
+D:\Учеба\New folder\Курсовая.v5\Курсовая\bin\Debug\Курсовая.pdb
+D:\Учеба\New folder\Курсовая.v5\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+D:\Учеба\New folder\Курсовая.v5\Курсовая\obj\Debug\Курсовая.AllElements.resources
+D:\Учеба\New folder\Курсовая.v5\Курсовая\obj\Debug\Курсовая.Form1.resources
+D:\Учеба\New folder\Курсовая.v5\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+D:\Учеба\New folder\Курсовая.v5\Курсовая\obj\Debug\Курсовая.GetTableNumber.resources
+D:\Учеба\New folder\Курсовая.v5\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+D:\Учеба\New folder\Курсовая.v5\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+D:\Учеба\New folder\Курсовая.v5\Курсовая\obj\Debug\Курсовая.exe
+D:\Учеба\New folder\Курсовая.v5\Курсовая\obj\Debug\Курсовая.pdb
